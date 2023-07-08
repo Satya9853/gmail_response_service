@@ -1,0 +1,19 @@
+{
+  "author": "Satya Bhusan prusty",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "google-auth-library": "^8.9.0",
+    "googleapis": "^120.0.0",
+    "path": "^0.12.7"
+  },
+  "name": "gmail-auto-reply-service",
+  "version": "1.0.0",
+  "description": "A service to send auto generated mail",
+  "main": "app.js",
+  "license": "ISC"
+}
