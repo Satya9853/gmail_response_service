@@ -1,4 +1,8 @@
 # gmail_response_service
+*Endpoint* -> http://localhost:$PORT/gmail/service
+
+## Requirement
+Should Have gmail Api enabaled and should provide the credentals file in the root folder.
 
 ## Packages Used
 *express* -> Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
