@@ -27,5 +27,19 @@ A service endpoint is a base URL that specifies the network address of an API se
 </br>
 </br>
 https://gmail.googleapis.com
+</br>
+</br>
+
+*Scopes Used for requesting different access*
+</br>
+</br>
+"https://www.googleapis.com/auth/gmail.readonly"
+</br>
+"https://www.googleapis.com/auth/gmail.send"
+</br>
+"https://www.googleapis.com/auth/gmail.labels"
+</br>
+"https://mail.google.com/"
+
 
 *Documentation can be found on* https://developers.google.com/gmail/api/reference/rest
